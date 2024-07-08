@@ -6,7 +6,7 @@ def saludar(nombre):
     print(f"Hola, {nombre}!")
 
 saludar("Juan")
-
+```
 ![imagen 1](guias.jpg)
 
 
