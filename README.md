@@ -1,7 +1,7 @@
 [guias pdf](guias.pdf)
 
 
-
+![imagen 1](guias.jpg)
 
 
 
