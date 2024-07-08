@@ -1,5 +1,11 @@
 [guias pdf](guias.pdf)
 
+```python
+# Ejemplo de código Python
+def saludar(nombre):
+    print(f"Hola, {nombre}!")
+
+saludar("Juan")
 
 ![imagen 1](guias.jpg)
 
