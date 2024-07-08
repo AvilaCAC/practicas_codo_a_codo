@@ -4,7 +4,7 @@
 ![imagen 1](guias.jpg)
 
 
-
+![imagen 1](guias.pdf)
 
 # Guia de ejercicios
 ## codo a codo inicial
